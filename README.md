@@ -1,5 +1,9 @@
 # Node Knocked Out
 
+The outline below was used to draft my #wd42 talk as given on November 27th 2013.
+
+The final presentation can be found here: http://slid.es/joshgillies/node-knocked-out
+
 _(questions encouraged during this talk)_
 	
 ## Slide one:
